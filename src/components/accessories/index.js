@@ -1,4 +1,2 @@
-export * from "./ButtonGrey";
-export * from "./TrendTitleBlue";
-export * from "./DateDetail";
-export * from "./TrendingTextWhite";
+export * from "./BlueTitle";
+export * from "./CreateAt";
